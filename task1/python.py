@@ -1,3 +1,4 @@
 n = int(input())
 text = raw_input()
-print(text * n)
+for i in range(n):
+    print(text * n)

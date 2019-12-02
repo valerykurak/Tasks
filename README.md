@@ -1,2 +1,0 @@
-# Tasks
- Python, Ruby, Elixir
